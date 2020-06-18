@@ -16,7 +16,8 @@ Execution time in Python: 14.8 seconds
 Result (COVID_19)
 Run with a larger dataset: COVID_19  
 source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?   
-cord_19_embeddings_2020-06-09.csv    
+cord_19_embeddings_2020-06-09.csv   
+Remove the column "ug7v899j" (object type)
 data shape: (138793, 768)  
 
 Execution time in C++: 15.1 seconds.  
