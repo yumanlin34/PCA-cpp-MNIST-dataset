@@ -22,3 +22,7 @@ data shape: (138793, 768)
 
 Execution time in C++: 15.1 seconds.  
 Execution time in Python: 25.3 seconds 
+
+Update (July 10):
+New jupyter notebook: parallel computing with Cupy library  
+Run the code with Google colab.
