@@ -13,7 +13,7 @@ Result (MNIST)
 Execution time in C++: 7.4 seconds.  
 Execution time in Python: 12.1 seconds 
 
-# Test the code with larger dataset:
+### Test the code with larger dataset:
 Result (COVID_19)
 Run with a larger dataset: COVID_19  
 source: https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge?   
