@@ -1,4 +1,4 @@
-## PCA-cpp-MNIST-dataset
+# PCA-cpp-MNIST-dataset
 
 use Eigen library to apply PCA to MNIST dataset in C++.  
 dataset: MNIST train set, label removed.  
@@ -25,7 +25,7 @@ Execution time in C++: 15.1 seconds.
 Execution time in Python: 25.3 seconds 
 
 Update (July 24):
-New jupyter notebook: parallel computing with Cupy library  
+### New jupyter notebook: parallel computing with Cupy library  
 Run the code with Google colab.  
 Without Cupy: 12.1 seconds    
 With Cupy: 0.39 seconds  
